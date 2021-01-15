@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactHooksRedux/static/css/main.fc38f113.chunk.css",
+    "main.js": "/reactHooksRedux/static/js/main.80c9c5d3.chunk.js",
+    "main.js.map": "/reactHooksRedux/static/js/main.80c9c5d3.chunk.js.map",
+    "runtime-main.js": "/reactHooksRedux/static/js/runtime-main.993b15a7.js",
+    "runtime-main.js.map": "/reactHooksRedux/static/js/runtime-main.993b15a7.js.map",
+    "static/css/2.31461e4f.chunk.css": "/reactHooksRedux/static/css/2.31461e4f.chunk.css",
+    "static/js/2.6b7d2762.chunk.js": "/reactHooksRedux/static/js/2.6b7d2762.chunk.js",
+    "static/js/2.6b7d2762.chunk.js.map": "/reactHooksRedux/static/js/2.6b7d2762.chunk.js.map",
+    "index.html": "/reactHooksRedux/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/reactHooksRedux/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.fc38f113.chunk.css.map": "/reactHooksRedux/static/css/main.fc38f113.chunk.css.map",
+    "static/js/2.6b7d2762.chunk.js.LICENSE.txt": "/reactHooksRedux/static/js/2.6b7d2762.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactHooksRedux/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.993b15a7.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.6b7d2762.chunk.js",
+    "static/css/main.fc38f113.chunk.css",
+    "static/js/main.80c9c5d3.chunk.js"
+  ]
+}
